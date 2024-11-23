@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+I'm Marcelo, an Electrical/Electronics Engineer with experience, primarily focused in hardware and electronics but always with a foot on the software side. 
+
+Feel free to explore my repositories, you will found every kind of projects in my repositories, some hardware stuff, some software stuff and also a mix of both parts.
+
 <!--
 **GrumpyTrooll/grumpytrooll** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
